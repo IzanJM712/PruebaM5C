@@ -1,7 +1,11 @@
 # Hola, soy 💜Izan💜
 # Hola, soy <font color="purple">Izan</font>
-
-
+[![An old rock in the desert]("Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+## Sobre mí
+- 🎓 Actualmente estoy haciendo el segundo año del ciclo superior de DAW y estoy trabajando por las mañanas 4 horas al dia en PMFarma desarrollando la página Web.
+- 💻 Suelo usar mi tiempo libre en ver videos sobre las últimas novedades en el mundo de la informática y para ver series y películas.
+- 🌱 Siempre estoy buscando nuevos retos para fomentar mi aprendizaje y crecimiento.
+- 📫 Puedes contactarme en [izan.jimenez.712@gmail.com].
 <h1>fab fa-markdown</h1>
 
 <i class='fab fa-markdown'></i>
@@ -51,11 +55,7 @@ Estoy comprometida con la comunidad de código abierto y me encanta contribuir a
 
 ¡Hola! Soy [Tu Nombre], estudiante entusiasta de la programación y apasionado por la tecnología. Bienvenido a mi perfil de GitHub, donde puedes encontrar una variedad de proyectos y contribuciones.
 
-## Sobre mí
-- 🎓 Actualmente soy estudiante de [tu universidad/curso].
-- 💻 Me encanta aprender sobre desarrollo web, ciencia de datos y mucho más.
-- 🌱 Siempre estoy buscando nuevas oportunidades de aprendizaje y crecimiento.
-- 📫 Puedes contactarme en [tu correo electrónico] o seguirme en mis redes sociales (enlaces más abajo).
+
 
 ## Proyectos destacados
 Aquí hay algunos de los proyectos en los que he estado trabajando recientemente:
