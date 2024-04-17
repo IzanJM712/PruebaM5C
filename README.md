@@ -22,8 +22,5 @@ Durante este curso estoy aprendiendo a usar PHP, Python y JavaScript con las lib
 Durante este curso aprendí a usar WordPress, HTML y CSS.
 
 ## Lenguajes
-### Spanish - Materno
-________________________________
-
+### Español - Nativo
 ### Inglés - B1
-_____________________
