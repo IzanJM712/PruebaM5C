@@ -1,4 +1,5 @@
-# Hola, soy [Tu Nombre]
+# Hola, soy <span style="color:purple;">Izan</span>
+
 
 ## Acerca de mí
 ¡Hola! Soy [Tu Nombre], una apasionada programadora con experiencia en diversas tecnologías y lenguajes de programación. Me encanta resolver problemas complejos y crear soluciones innovadoras que mejoren la vida de las personas.
