@@ -1,4 +1,6 @@
 # Hola, soy 💜Izan💜
+# Hola, soy <font color="purple">Izan</font>
+
 
 
 ## Acerca de mí
