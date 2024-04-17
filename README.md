@@ -2,6 +2,23 @@
 # Hola, soy <font color="purple">Izan</font>
 
 
+<h1>fab fa-markdown</h1>
+
+<i class='fab fa-markdown'></i>
+<i class='fab fa-markdown' style='font-size:24px'></i>
+<i class='fab fa-markdown' style='font-size:36px'></i>
+<i class='fab fa-markdown' style='font-size:48px;color:red'></i>
+<br>
+
+<p>Used on a button:</p>
+<button style='font-size:24px'>Button <i class='fab fa-markdown'></i></button>
+
+<p>Unicode:</p>
+<i style='font-size:24px' class='fab'>&#xf60f;</i>
+
+
+
+
 
 ## Acerca de mí
 ¡Hola! Soy [Tu Nombre], una apasionada programadora con experiencia en diversas tecnologías y lenguajes de programación. Me encanta resolver problemas complejos y crear soluciones innovadoras que mejoren la vida de las personas.
