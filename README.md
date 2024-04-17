@@ -5,8 +5,10 @@
 - 💻 Suelo usar mi tiempo libre en ver videos sobre las últimas novedades en el mundo de la informática y para ver series y películas.
 - 🌱 Siempre estoy buscando nuevos retos para fomentar mi aprendizaje y crecimiento.
 - 📫 Puedes contactarme en [izan.jimenez.712@gmail.com].
-<h1>fab fa-markdown</h1>
 
+# Historia laboral
+## Estudiante en prácticas
+### 01/2022 – 05/2022 | Sant Boi de Llobregat, Barcelona
 <i class='fab fa-markdown'></i>
 <i class='fab fa-markdown' style='font-size:24px'></i>
 <i class='fab fa-markdown' style='font-size:36px'></i>
