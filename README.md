@@ -20,3 +20,10 @@ Durante este curso estoy aprendiendo a usar PHP, Python y JavaScript con las lib
 ### Sistemas Microinformáticos y Redes – INS Les Salines
 ###### 09/2020 – 06/2022 | El Prat de Llobregat, Barcelona
 Durante este curso aprendí a usar WordPress, HTML y CSS.
+
+## Lenguajes
+### Spanish - Materno
+________________________________
+
+### Inglés - B1
+_____________________
