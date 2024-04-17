@@ -7,8 +7,7 @@
 - 📫 Puedes contactarme en [izan.jimenez.712@gmail.com].
 
 # Historia laboral
-## Estudiante en prácticas
-### 01/2022 – 05/2022 | Sant Boi de Llobregat, Barcelona
+## Estudiante en prácticas 01/2022 – 05/2022 | Sant Boi de Llobregat, Barcelona
 <i class='fab fa-markdown'></i>
 <i class='fab fa-markdown' style='font-size:24px'></i>
 <i class='fab fa-markdown' style='font-size:36px'></i>
