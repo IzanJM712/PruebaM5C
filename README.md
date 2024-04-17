@@ -23,4 +23,5 @@ Durante este curso aprendí a usar WordPress, HTML y CSS.
 
 ## Lenguajes
 ### Español - Nativo
+### Catalán - Nativo
 ### Inglés - B1
